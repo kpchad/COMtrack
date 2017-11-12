@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMtracker", "COMtracker.csproj", "{7CFFA4FC-51BE-E219-3AA3-47B4ED1DE43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMtracker.Editor", "COMtracker.Editor.csproj", "{CA3FA6DD-3D20-4514-7CE1-33C99E7AFE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFFA4FC-51BE-E219-3AA3-47B4ED1DE43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFFA4FC-51BE-E219-3AA3-47B4ED1DE43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFFA4FC-51BE-E219-3AA3-47B4ED1DE43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFFA4FC-51BE-E219-3AA3-47B4ED1DE43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3FA6DD-3D20-4514-7CE1-33C99E7AFE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3FA6DD-3D20-4514-7CE1-33C99E7AFE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3FA6DD-3D20-4514-7CE1-33C99E7AFE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3FA6DD-3D20-4514-7CE1-33C99E7AFE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
